@@ -1,0 +1,34 @@
+/* ==========================================================================
+   XIYAN PORTFOLIO — SETTINGS  (the only file you need for contact details)
+
+   How to edit:
+   1. Change only the text between the quote marks " ".
+   2. Keep the quote marks and the comma at the end of each line.
+   3. Save the file and upload it to GitHub again. Done.
+   ========================================================================== */
+
+window.SITE = {
+
+  /* 1) EMAIL — the address the "Email" button opens */
+  email: "design@xiyqn.xyz",
+
+  /* 2) INSTAGRAM — your username only (no @, no link) */
+  instagram: "yo.abhinqv",
+
+  /* 3) DISCORD USERNAME — shown in the small window when someone clicks "Discord" */
+  discordUsername: "xiyan3000",
+
+  /* 4) DISCORD ID (optional) — a long number, e.g. "123456789012345678"
+        Keep it INSIDE the quotes. Leave it as "" (empty) if you don't want it.
+        When filled in, an "Open profile" button appears in the Discord window.
+
+        How to find it:
+          Discord > User Settings > Advanced > turn ON "Developer Mode".
+          Then right-click your own name/avatar anywhere > "Copy User ID".
+          Paste it between the quotes below. */
+  discordId: "",
+
+  /* 5) AVAILABILITY — the small line at the top of the page.
+        Change the words, or set it to "" to hide it completely. */
+  availability: "AVAILABLE FOR WORK"
+};
