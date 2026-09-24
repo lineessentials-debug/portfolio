@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="1000" height="1000">
+<defs><radialGradient id="g" cx="65%" cy="40%" r="70%"><stop offset="0" stop-color="#a08f7d" stop-opacity=".55"/><stop offset="1" stop-color="#302b2a" stop-opacity="0"/></radialGradient>
+<filter id="n"><feTurbulence type="fractalNoise" baseFrequency=".8" numOctaves="2"/><feColorMatrix values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 .08 0"/></filter></defs>
+<rect width="1000" height="1000" fill="#302b2a"/><rect width="1000" height="1000" fill="url(#g)"/>
+<rect x="120.0" y="180.0" width="460.0" height="640.0" fill="none" stroke="#E8E6E1" stroke-opacity=".12"/>
+<rect width="1000" height="1000" filter="url(#n)"/>
+<text x="60.0" y="930.0" font-family="Georgia,serif" font-size="22.0" fill="#E8E6E1" fill-opacity=".35" letter-spacing="3">REPLACE — images/work-03.svg</text></svg>
